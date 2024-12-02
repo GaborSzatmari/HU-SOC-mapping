@@ -3,7 +3,7 @@ Gridded, temporally referenced spatial information on soil organic carbon conten
 
 Soil organic carbon (SOC), known as the most important soil attribute, affects various soil functions and services, essential for nutritious food and clean drinking water. Since recognizing its key role in many environmental challenges, there has been an increasing demand for spatial information on SOC. Our objective was to present the results of a mapping activity aimed at producing spatially exhaustive information on SOC content, density, and stock for the topsoils of Hungary for 1992 and 2000. A “time-for-space” digital soil mapping approach was pursued to predict and map these SOC properties, with the associated uncertainty, at a resolution of 100⨯100 m. Particular attention was paid to validating the accuracy of the maps and the reliability of the uncertainty quantifications. Custom code used for digital soil mapping and validation is available here.
 
-Please cite: Szatmári, G., Laborczi, A., Mészáros, J., Takács, K., Benő, A., Koós, S., Bakacsi, Z., & Pásztor, L. (2024). Gridded, temporally referenced spatial information on soil organic carbon for Hungary. Scientific Data (submitted manuscript)
+Please cite: Szatmári, G., Laborczi, A., Mészáros, J., Takács, K., Benő, A., Koós, S., Bakacsi, Z., & Pásztor, L. (2024). Gridded, temporally referenced spatial information on soil organic carbon for Hungary. Scientific Data 11, 1312. https://doi.org/10.1038/s41597-024-04158-3
 
 Resulting maps: Szatmári, G., Laborczi, A., Mészáros, J., Takács, K., Benő, A., Koós, S., Bakacsi, Z., & Pásztor, L. (2024). Gridded spatial information on soil organic carbon content, density, and stock in Hungary for 1992 and 2000 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13236749
 
